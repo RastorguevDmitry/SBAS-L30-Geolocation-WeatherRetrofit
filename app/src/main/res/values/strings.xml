@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Геолокация и Погода</string>
+    <string name="text_current_location">Ваше текущее местоположение:</string>
+    <string name="geolocation_not_found">Местоположение не определено</string>
+    <string name="text_current_weather">Текущая погода в Вашем местоположении</string>
+    <string name="temperature">Температура:</string>
+    <string name="presure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="max_temp">Макс.температура</string>
+    <string name="min_temp">Мин.температура</string>
+</resources>
